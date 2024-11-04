@@ -14,9 +14,9 @@
 
 ## Introduction
 
-Klinsept is a  service provider. The company's mission is to provide reliable and efficient goods movement across various locations, along with secure warehousing solutions.
+Klinsept is a janitorial and disinfectant products manufacturing company.
 
-This website serves as the online presence for the company, allowing users to explore its services, contact the team, and potentially book transportation or storage.
+This website serves as the online presence for the company, allowing users to explore its services, contact the team, and potentially order their products.
 
 ## Technologies
   ### Languages
