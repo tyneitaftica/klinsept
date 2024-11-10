@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home7/klinsept/public_html/
+    - /bin/cp -R /home7/klinsept/repositories/klinsept/* $DEPLOYPATH
